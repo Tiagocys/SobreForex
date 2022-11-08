@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Forex</title>
+    <link rel="stylesheet" href="../../style.css">
+    <script src="app.js" defer></script>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <meta name="description" content="O Expert Advisor gratuito do Sobre Forex é um dos mais procurados por traders brasileiros que operam no mercado Forex." />
+
+    <meta property="og:title" content="Sobre Forex" />
+    <meta property="og:type" content="Expert Advisor" />
+    <meta property="og:url" content="https://sobreforex.rj.r.appspot.com/" />
+    <meta property="og:image" content="https://raw.githubusercontent.com/Tiagocys/SobreForex/main/EAsobreforex.png" />
+    <meta property="og:image:width" content="1280" />
+    <meta property="og:image:height" content="720" />
+    <meta property="og:description" content="O Expert Advisor gratuito do Sobre Forex é um dos mais procurados por traders brasileiros que operam no mercado Forex.">
+
+</head>
+<body>
+    <nav>
+        <div class="imagemNav">
+            <a href="index.html"><img src="../../images/logo.png" alt=""></a>
+        </div>
+        <div class="menu">
+            <a href="index.html">Expert Advisor</a>
+            <a href="noticias.html">Notícias</a>
+            <a href="contato.html">Contato</a>
+        </div>
+    </nav>
+    
+    <footer>
+        <div><a href="https://www.facebook.com/profile.php?id=100087449386311">Facebook</a> |<a href="https://fbs.partners?ibl=47809&ibk=sobreforex"> FBS</a></div>
+        <div><p>© 2022 Sobre Forex</p></div>
+    </footer>
+</body>
+</html>
